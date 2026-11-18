@@ -59,8 +59,8 @@ impossible to forge without actually holding the (non-transferable) Agent ID.
 Solo builder: Bayu Prasetya (0xby), Lampung, Indonesia.
 Contact: baybaik115@gmail.com · GitHub: https://github.com/xbaystore
 
-**Repository** ⏳
-https://github.com/xbaystore/agentboard _(public, MIT — created at repo step)_
+**Repository** ✅
+https://github.com/xbaystore/agentboard (public, MIT — live since 18 Nov 2026, commit c5b11bae)
 
 **How will you drive Agent ID holders to interact?** ✅ (plan)
 1. Launch post + demo thread on X with #BinanceWalletHackathon #AgenticWallet,
